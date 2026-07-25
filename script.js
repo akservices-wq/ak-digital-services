@@ -142,9 +142,9 @@
       "FN:AK Digital Services (Ankush Kumar)",
       "ORG:AK Digital Services",
       "TITLE:Digital Service Centre",
-      "TEL;TYPE=CELL:+919000000000",
-      "EMAIL:contact@akdigitalservices.in",
-      "ADR;TYPE=WORK:;;Ballia;Begusarai;Bihar;851101;India",
+      "TEL;TYPE=CELL:+91 9693496128",
+      "EMAIL:akdigitalsupport@gmail.com",
+      "ADR;TYPE=WORK:;;Ballia;Begusarai;Bihar;851211;India",
       "URL:https://akdigitalservices.in",
       "END:VCARD"
     ].join("\n");
