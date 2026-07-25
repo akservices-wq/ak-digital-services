@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AK Digital Services logo">
+  <defs>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FCD34D"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="96" fill="url(#ring)"/>
+  <circle cx="100" cy="100" r="84" fill="url(#core)"/>
+
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#F59E0B" stroke-width="1" stroke-dasharray="1 7.2" stroke-opacity="0.7"/>
+
+  <text x="100" y="118" text-anchor="middle" font-family="Sora, 'Segoe UI', sans-serif" font-weight="700" font-size="64" fill="#F8FAFC" letter-spacing="-1">AK</text>
+
+  <path d="M76 138 h48" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="150" cy="55" r="9" fill="#F59E0B"/>
+  <path d="M146.2 55 l2.6 2.8 l5.2 -5.8" stroke="#0F172A" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
